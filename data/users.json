@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Afonso Jaquim",
+        "email":"aj@cenas.com",
+        "password":"123456789",
+        "preferences":[
+            {
+                "name":"pref name",
+                "type":"movies"
+            }
+        ]
+    }
+]
